@@ -1,0 +1,4 @@
+# Отключаем обработку Jekyll для node_modules
+exclude:
+  - WEBS/server/node_modules/
+  - node_modules/
